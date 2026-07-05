@@ -1,0 +1,5 @@
+python-telegram-bot==21.*
+aiosqlite
+python-dotenv
+openpyxl
+pytest
